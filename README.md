@@ -1,4 +1,4 @@
-# IPL Score Tracker
+# IPL Score Tracker 🎯
 
 The **IPL Score Tracker** is a React-based web application that provides live IPL scores, player rankings, team stats, and schedules for the Indian Premier League 2025 season. It features a modern UI with responsive design and interactive components.
 
@@ -19,7 +19,7 @@ The **IPL Score Tracker** is a React-based web application that provides live IP
 - **Tailwind CSS**: For styling.
 - **Lucide React**: For icons.
 
-## Projecr Structure
+## Projecr Structure 📊
   
 - src/
 ├── components/
@@ -39,7 +39,7 @@ The **IPL Score Tracker** is a React-based web application that provides live IP
 └── assets/
     └── stadium.jpg      # Background image
 
-## API Integration
+## API Integration 🧩
   
 - const HEADERS = {
   'x-rapidapi-key': 'YOUR_API_KEY',
