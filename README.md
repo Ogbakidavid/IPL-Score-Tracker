@@ -19,7 +19,7 @@ The **IPL Score Tracker** is a React-based web application that provides live IP
 - **Tailwind CSS**: For styling.
 - **Lucide React**: For icons.
 
-- # Projecr Structure
+## Projecr Structure
   
 - src/
 ├── components/
@@ -39,7 +39,7 @@ The **IPL Score Tracker** is a React-based web application that provides live IP
 └── assets/
     └── stadium.jpg      # Background image
 
-- # API Integration
+## API Integration
   
 - const HEADERS = {
   'x-rapidapi-key': 'YOUR_API_KEY',
